@@ -1,7 +1,7 @@
 # Snake Game 🐍
 The classic snake game, but created in C language!
 
-<img align="center" width="300" src="image.png" />
+<img align="center" src="image.png" />
 
 ## Play
 You can play the game by downloading the "main.exe".
